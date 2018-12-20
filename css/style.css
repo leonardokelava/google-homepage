@@ -1,0 +1,105 @@
+.test {
+
+background-color: white;
+height: 800px;
+width: 100%;
+margin : auto auto; 
+position : relative;
+top: 200px ; 
+}
+
+
+.test img {
+
+width: 40%;
+display:block;
+margin-left: 30%;
+margin-right: 30%;
+margin-bottom: 10px ;  
+}
+
+
+.form {
+
+width:40% ;
+display:block; 
+margin-left: 30%;
+margin-right: 30%;  
+
+
+
+}
+
+.searchbar {
+
+    border:1px solid #eaeaea ;
+    width: 70% ;
+    height: 40px;
+    position: relative; 
+    margin-left: 15% ;
+    margin-right: 15% ; 
+    margin-bottom: 5px; 
+    border-radius: 2px ; 
+
+
+
+
+}
+
+
+.buttons {
+    
+    position: relative; 
+    margin-left:37%;
+    margin-right:30%;
+    margin-top:5px;
+    
+}
+
+
+.buttons span:hover {
+
+    border:1px solid black;
+}
+
+
+
+nav {
+    
+    float:right;
+    
+}
+
+
+
+li {
+
+    display: inline-block;
+
+}
+
+
+.footer  {
+
+    position: absolute; 
+    bottom: 0px ; 
+    background-color: #f4f4f4; 
+    width: 100% ;
+     
+     
+     
+
+}
+
+
+.right{
+
+    float:right;
+}
+
+
+.footer p {
+
+    border-top: 1px solid #cccccc; 
+    margin-top: 0 ;
+}
